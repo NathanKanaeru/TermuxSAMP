@@ -1,8 +1,7 @@
 ![logo](large.png)
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-        height="130">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
 
 # TermuxSAMP
